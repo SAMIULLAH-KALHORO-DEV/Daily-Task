@@ -1,6 +1,6 @@
-# design2
+# Daily Task
 
-A new Flutter project.
+UI Design has been Completed
 
 ## Getting Started
 
