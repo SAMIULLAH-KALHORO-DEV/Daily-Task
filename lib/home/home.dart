@@ -13,7 +13,7 @@ class Home extends StatelessWidget {
     "assets/profile4.jpg",
     "assets/profile5.jpg",
   ];
-
+// 
   final titleStyle = TextStyle(
       color: Colors.black87, fontWeight: FontWeight.bold, fontSize: 18);
   final subTitle =
